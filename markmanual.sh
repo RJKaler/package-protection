@@ -2,7 +2,7 @@
 
 
 # ==============================================================================
-#  PACKAGE PROTECTION SCRIPT: markmanproc.sh
+#  PACKAGE PROTECTION SCRIPT: markmanual.sh
 # ==============================================================================
 #  Purpose:
 #    Mark all installed packages as "manually installed" to prevent them
